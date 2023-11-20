@@ -1,5 +1,5 @@
 # Blocked Email Domains
-A text file containing over 5,800 spam email domains, including specific spam gmail accounts.  Many items on this list are either obvious spam or unwanted emails from which I could not unsubscribe, even after multiple attempts.
+A text file containing over 5,900 spam email domains, including specific spam gmail accounts.  Many items on this list are either obvious spam or unwanted emails from which I could not unsubscribe, even after multiple attempts.
 
 If you have any additions, please let me know.
 
