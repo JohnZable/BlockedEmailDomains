@@ -1,6 +1,8 @@
 # Blocked Email Domains
 A text file containing over 8,200 spam email domains, including specific spam email accounts and DuckDNS subdomains.  Many items on this list are either obvious spam, unwanted emails from which I could not unsubscribe, even after multiple attempts, or valid businesses and universities with lax policies that allow someone to send spam from an admin account.
 
+Due to a recent trend of spammers placing meetings on my calendar without sending me an email, I have started including the email domains of these people as well.
+
 If you have any additions, please let me know.
 
 If you feel a domain name or email address should not be on this list, prove it to me.
