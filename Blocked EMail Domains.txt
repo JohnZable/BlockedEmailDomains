@@ -1,5 +1,6 @@
+*.boats
+*.motorcycles
 .bounce_dn
-.motorcycles
 .testdfdfdf
 .walmart
 0370.ru
@@ -111,12 +112,14 @@ abourch.com
 abourgent.com
 aboutline.beauty
 aboutsimonle.com
+above-magazine.com
 abpoetiquelondon.com
 abrolhouet.com
 abroup.com
 absdefghijklmnopqrstuvwxyz.click
 absenthus.com
 absoic.com
+absolute-news.com
 absorback.in.net
 abstraist.com
 abstralism.com
@@ -340,6 +343,7 @@ againian.info
 againsteady.com
 againstrained.net
 agan.pt
+agddns.net
 ageheat.store
 agencience.com
 agenster.com
@@ -373,6 +377,7 @@ airagio.com
 airayor.store
 airbaijanic.com
 aircumed.com
+airjordan11.us
 airjordan3.us
 airlaw.biz
 airowebs.com
@@ -590,6 +595,7 @@ anesid.org
 angaluru.org
 angelboosters.space
 angelosolutions.space
+angkaperamal.us
 anglersmarinenc.space
 anglishing.com
 anguagie.com
@@ -669,6 +675,7 @@ apoptoms.com
 aporlsaks.site
 apositing.com
 apoteknorge.life
+apotheek-nederland.life
 apoupisse.live
 apowersolutions.com
 app3332.com
@@ -985,6 +992,7 @@ awhpggnt.fun
 awmailer.com
 awnsto.com
 aworkingmodels.com
+awshop.us
 awsmznk.lidomait.com
 awtanirejaat.duckdns.org
 axasos.com
@@ -1186,6 +1194,7 @@ beolnhvfirse.com
 bepick.site
 beratory.com
 beratrei.com
+berbere-evasion.com
 beriated.com
 berkegaarded.com
 bermaralloge.store
@@ -1205,6 +1214,7 @@ best.pharmacy.online2@hotmail.com
 best.pharmacy.online9@hotmail.com
 bestbuy@hotmail.com
 bestenettapotek.life
+beste-nettapotek.life
 besteternitylove.life
 bestfreebestvideosn.com
 bestgenericviagra.life
@@ -1261,6 +1271,7 @@ biig-discount.com
 bikeworkskona.space
 billbrownassociates.com
 billeure.org
+billing.creditcard
 biloke.club
 bimbine.com
 binarouse.live
@@ -1296,6 +1307,7 @@ bladeliterary.com
 bladities.com
 bladolf.com
 blaissc.net
+blakeparo.com
 blambdove.com
 blameini.de.com
 blaretching.com
@@ -1325,6 +1337,7 @@ bllworldwide.space
 blmnetwork.info
 bloatingmerciless.com
 blockmonsterempire.com
+blogiurisdoc.com
 bloodpressurenormalized.net
 blotdelight.org
 blou.shop
@@ -1394,12 +1407,14 @@ booditwora.com
 bookholidayresort.com
 bookimony.com
 booking-kibbutz.co.il
+bookofyour.life
 booksiavings.com
 booksteam.com
 boomlecture.co.uk
 boorooentertainment.net
 boostaro--us.us
 boostelevatego.space
+bootcampdallas.us
 bootweity.com
 bopearact.me
 bordials.net
@@ -1557,6 +1572,9 @@ butrons.com
 butss.shop
 buttires.info
 buyaccessgrana.com
+buybiaxin.life
+buybuspar.life
+buycelebrex.life
 buyciprofloxacin.life
 buydeals.duckdns.org
 buyeasyshopstore.com
@@ -1598,6 +1616,7 @@ callegesists.com
 callegion.com
 callelis.com
 calleload.net
+calmorbidly.com
 calmwellcbd.com
 calnewengland.org
 calsoxing.uk.net
@@ -1605,6 +1624,7 @@ caluliance.net
 camberaxle.com
 camcast.beauty
 camerachongtrom.com
+camerakbvision.org
 camillelavie.com
 caminhosecolinas.org.br
 campanimalcare.info
@@ -1841,6 +1861,7 @@ chenpengsh.com
 chestleisure.com
 chestnuthilloutdoors.com
 cheungguang39@gmail.com
+chewyhueydoodah.life
 chghangolek.shop
 chianglished.com
 chicalled.com
@@ -1849,6 +1870,7 @@ chicmagical.org.uk
 chicosofftherack.com
 chicsomi.com
 chikos.express
+chillum.life
 chiminage.com
 china-178zhibo.com
 chineseestatescompany.com
@@ -1975,6 +1997,7 @@ clearnrem.it.com
 cleopaths.tech
 clerosing.com
 cleverestkid.com
+cleverland.life
 clh-tecnologia.com
 clicathe.net
 clickcentral.icu
@@ -2091,6 +2114,7 @@ comerds.tech
 comestames.info
 comestimater.com
 cominally.info
+comiscytoplast.info
 comissive.com
 comlon.org
 commandards.com
@@ -2274,6 +2298,7 @@ corrernte.net
 corruptionary.com
 corstearaver.com
 cortand.com
+cortexie.us
 corthys.courses
 cortimince.org
 corvinushomes.com
@@ -2497,6 +2522,7 @@ dayamisstein-tk0053.rest
 daycamtech8.com
 daylilyandhostagarden.com
 dazzlersunnxt.co.uk
+dazzlingnode.com
 dbcohrpi.space
 dbruk.com
 dcil.co.in
@@ -2849,6 +2875,7 @@ dkherokudns.com
 dmitten.dev
 dmitting.com
 dmrbuilds.com
+dnacode.us
 dnencreas.net
 dnsiskinky.com
 dnsshopri.com
@@ -2917,6 +2944,7 @@ dramaticult.com.de
 dramationary.com
 dramo357.com
 dratspiaro.com
+dravik.motorcycles
 drawer.cv
 drdavidfraped@gmail.com
 dreambikeuk.com
@@ -2951,6 +2979,7 @@ duchand.nl
 ducks.fr
 ductaticuter.net
 duempiest.com
+duerice.com
 dufferents.info
 dufficians.com
 dulneral.com
@@ -2969,6 +2998,7 @@ durinas.com
 duringian.com
 duringings.com
 durittenus.com
+dushang.us
 dusink.org
 dutchel.com
 dutchese.com
@@ -3058,6 +3088,7 @@ edeailer.com
 e-dendrite.com
 eden-solar.co.uk
 edge251.hopto.me
+ed-hardy.us
 edifies.us.com
 edisondushku6416@gmail.com
 edistanley.com
@@ -3081,6 +3112,7 @@ edueco.org
 eduia.net
 edulibs.org
 edurren.com
+edusuccesspath.com
 edu-supp.shop
 eduu.beauty
 edweek.online
@@ -3217,6 +3249,7 @@ endentury.com
 endoftheage.org
 endurehaulhub.com
 enecit.com
+eneelfan.com
 enemiere.com
 enemiered.bid
 enencestore.com
@@ -3528,6 +3561,7 @@ fahd01.shop
 fahlgren.com
 failinguoi.org
 fair-easy.org
+fairlydip.us
 falioca.bid
 falliam.pro
 falliest.com
@@ -3924,6 +3958,7 @@ fwi.co.uk
 fxclearing.com
 fxpark.de
 fxqlcz.cfd
+fyntris.fun
 fzzszxwlw.com
 g18.hair
 g36442051@gmail.com
@@ -3932,6 +3967,7 @@ gabrielcrtravels.com
 gae.autos
 gaeliteratic.com
 gafdavgloyd.com
+gagedimp.com
 gainstern.com
 gaitalem.net
 galleraprobas.com
@@ -4056,6 +4092,7 @@ givenessed.com
 givenezia.com
 giversidadian.com
 givingincision4@gmail.com
+gixeva.com
 gjghjggh.duckdns.org
 gkabccm.org.uk
 gkewcv.com
@@ -4078,12 +4115,15 @@ globalfundforchildren.org
 globalhealth.org
 globalpayments.blog
 globaltitudent.in.net
+globegenuine.com
+globeinclusive.info
 glopuli.com
 glorycasenoender.com
 gloveangry.org.uk
 glovermedia.store
 glowmatrix.info
 glowsync.makeup
+glucoberryy-us.us
 gmalir.com
 gmxpro.me
 gnaranleb.store
@@ -4235,6 +4275,7 @@ guerrillarocket.com
 guerrings.com
 guerritors.com
 guidancefuture.com
+guidetrusty.info
 guildquality.com
 guiogiriss.org
 guitablish.com
@@ -4435,6 +4476,7 @@ hesidose.net
 hesistand.us
 heteroeirotism.com
 heuticele.org
+hevnova.com
 hextra.cloud
 hfahfzh.org.uk
 hfbk-hamburg.de
@@ -4524,6 +4566,7 @@ homenewbesoffers.org
 homeownerco.com
 homeremediesandtreatments.com
 homerenovationsplan.com
+homesbox.life
 homestionally.com
 hometopoffers.com
 hometopoffers.pro
@@ -4659,6 +4702,7 @@ iberies.buzz
 ibiza1.shop
 ibrall.net
 icanwa.com
+icebox86.us
 icec2011.org
 ices.utexas.edu
 icfaimail.org
@@ -4703,6 +4747,7 @@ iispv.ro
 iissalfano.edu.it
 ijgobwg.org.uk
 ijlvkunx.space
+ikariajuice-org.us
 ikbzkzpx.space
 ilcuuce.eu.com
 ilelignalf.com
@@ -4771,6 +4816,7 @@ impromptoman.com
 improvidentially.com
 improvisites.com
 improvisitive.art
+in5d.us
 inachet.com
 inappropriate.com
 inbox.lv
@@ -4940,6 +4986,7 @@ ismail01.shop
 ismaistermindfocus.com
 ismarshalsgov.com
 isobarometric.com
+isotretinoin.life
 isouenonet.com
 isoxdirec.eu.com
 isroacia.com
@@ -5056,6 +5103,7 @@ jinnation.sale
 jinqiaojiang.com
 jiohnnie.shop
 jiouzhou.com
+jivzera.com
 jm468.com
 jmarklife.com
 jmtktzne.space
@@ -5071,6 +5119,7 @@ johannellite.us
 johannema.com
 johnathangreen68@gmail.com
 johncodyhandyman.us.com
+johnharvey.us
 johnjosephmiller6@gmail.com
 johnsoavtomgroo.net
 johnstonial.store
@@ -5083,6 +5132,8 @@ joneszion4real@gmail.com
 joomlapixel.com
 joooj.shop
 joopab.com
+jordan24.us
+jordansretro3.us
 jorkdade.com
 josephana.com
 joshuaperry5639@gmail.com
@@ -5111,10 +5162,12 @@ jupiteratist.com
 juristicky.in.net
 justhoops4u.com
 justicks.in.net
+justslam.com
 jutz.uk.net
 juvenineteen.com
 juvening.com
 juyuange.org
+juzavo.com
 jvenin.com
 jvnhair.com
 jvzgmwqh.fun
@@ -5196,6 +5249,7 @@ kesterch.net
 kevincarpets.de.com
 kezapoekr.com
 kfefzefzefcez.duckdns.org
+kg4tux.us
 kgwwyu.org.uk
 kh.edu.tw
 khalidiing.com
@@ -5235,6 +5289,7 @@ kirkwoodstuff.com
 kisret.beauty
 kitarhayta.duckdns.org
 kitbhatiik.duckdns.org
+kivovex.com
 kiways.com
 kiym.digenue.com
 kjfnrgkjnhz.duckdns.org
@@ -5254,6 +5309,7 @@ kneglic.com
 knestion.com
 kniansps.com
 knirio.info
+knittry.com
 knizatiout.info
 knliwjip.space
 knobsof.com
@@ -5360,6 +5416,7 @@ lastallavane.com
 lastchance.ink
 lastillow.net
 latchits.com
+lateknow.com
 latelliterature.com
 latemessage.com
 lateracy.com
@@ -5429,6 +5486,7 @@ leisched.de
 leisu-online.com
 leiterarchimed.com
 leloutbashed.com
+lemonangle.org
 lendingpoint.com
 lendingtree.com
 lenginess.com
@@ -5834,6 +5892,7 @@ marriverged.com
 marrivinegal.co
 marsexploration.org
 marshadowell.com
+marspeg.com
 martent.org
 marticularly.com
 maryanmcdonald96241@gmail.com
@@ -5870,6 +5929,7 @@ maynoothinevarsetyea.com
 maysorales.com
 maza.lol
 mbapee.in.net
+mbp.ac.th
 mbqax.shop
 mcatimb.com
 mcaulty.com
@@ -5893,6 +5953,7 @@ mdppartners.com
 mdrmd.duckdns.org
 mdx.ac.uk
 me.uk
+meador754648@outlook.com
 meageawarka.com
 meahelp@disneyplus.com
 measuran.com
@@ -5910,6 +5971,7 @@ medexdiagnos.org
 mediadvance.com
 mediaecomm.co.uk
 medicahealthy.net
+medicalcareconnect.info
 medicalsnewstoday.com
 medicansnakh.com
 medictations.com
@@ -5928,6 +5990,7 @@ meduled.com
 medzen.tattoo
 meegalofmania.com
 meerah.net
+meertsonth.com
 mefoundpos.com
 mefoundska.com
 mega-genius.eu.com
@@ -5949,6 +6012,7 @@ memoestals.com
 memolsorin.com
 memorianned.com
 memphisdeals.duckdns.org
+meneave.com
 menetiati.com
 menians.com
 menipoparf.com
@@ -5986,6 +6050,7 @@ meteorongraphy.com
 methodong.com
 methological.com
 metreater.com
+metrica.bg
 metrodyni.com
 metroflooringcontractors.com
 metroportaling.in.net
@@ -6053,6 +6118,7 @@ minkowskies.com
 minondon.us
 minstake.com
 minterpiece.com
+minunveiled.info
 mir.boats
 miroslavduvnjak.co.uk
 misalpings.lat
@@ -6143,6 +6209,7 @@ mopolicalkara.site
 morahill.eu.com
 moralesgustavo9@hotmail.com
 moravianism.com
+morecaremedic.com
 moremeemberboy.com
 moreolre.com
 moreph.com
@@ -6333,6 +6400,7 @@ natrrdy.net
 naturalketo.org
 naturestudieschoose.uk
 natureutilities.pro
+naturheilpraxis-nies.de
 nau.us.com
 nauseatingwipe.com
 navailand.com
@@ -6415,6 +6483,7 @@ newbidblog.com
 newbidblog.info
 newbidblog.net
 newbidblog.org
+newcreationinc.com
 newdelhiymca.in
 newdirectiontackle.co.uk
 neweistonexi.com
@@ -6482,6 +6551,7 @@ nitrivetin.com
 nitrogue.com
 nitrong.com
 niversityofcalifornia.org
+niy.boats
 nizmals.net
 nkruption.com
 nlgguide.com
@@ -6570,6 +6640,7 @@ nttritzz.space
 nucl.in
 nuctehar.com
 nuffars.com
+nukinuki.us
 nukuomit.com
 nulerl.net
 nulliufidian.com
@@ -6733,6 +6804,7 @@ oncernet.com
 onclickit.com
 onduleurs-emerson.net
 oneddumbisa.com
+onedigitconsulting.com
 onedumbska.com
 oneglobelearning.com
 oneonlinedatingcompany.com
@@ -6745,6 +6817,7 @@ onesteals.info
 onesteals.shop
 oneupalertlight.com
 one-youtube-now.com
+onhealthcaregroup.com
 oniveddink.com
 onlineculturefamily.com
 onlineedeals.com
@@ -6793,6 +6866,7 @@ opposest.com
 oppositively.uk
 oppositives.com
 opprecentury.com
+opteron.work
 optimalrate.org
 optimidity.com
 optimumhealthsol.com
@@ -6827,6 +6901,7 @@ orientbaptist.org
 origaden.com
 originalwhitepages.com
 originatra.com
+orisetupt.com
 orkalism.com
 orkiestrasonata.org
 orneill.org.uk
@@ -6880,6 +6955,7 @@ outfitforwinter.com
 outhiao.org
 outletalent.org.uk
 outletons.net
+outlook.com
 outrality.com
 outrumah.com
 outsideresource.com
@@ -7109,6 +7185,7 @@ pharmabcotherapy.com
 pharmacodynamico.com
 pharmacy.online@hotmail.com
 pharmriacologically.com
+phatext.com
 phaulthony.com
 ph-dorothy.org
 phelleps.com
@@ -7201,6 +7278,7 @@ ploual.net
 plowinges.com
 pluckdodge.store
 plugandplay.co.id
+plugward.com
 plulank.com
 plumboable.com
 pmada.cfd
@@ -7409,6 +7487,7 @@ prociation.com
 prockefere.com
 proclaiminate.biz
 proconsension.net
+proctorgks.life
 prodirectsport.net
 prodiuceilon.com
 prodsuietromia.com
@@ -7457,6 +7536,7 @@ proportugues.com
 propospher.com
 propropose.com
 proptoit.com
+prosa.ai
 prosenchymata.com
 proserv.com
 prospectaihub.com
@@ -7464,6 +7544,7 @@ prospellery.recipes
 prosperature.com
 prospolis.net
 prospolis.org
+prostadine--drops.us
 prostautoveasiculitis.com
 proswdev.com
 protectural.com
@@ -7642,6 +7723,7 @@ randdaught.com
 rangelesco.net
 ranjestutz.com
 rankfurthod.com
+rankrisebestdigital.com
 rankrupt.com
 raphinia.sa.com
 rapidechox.org
@@ -7651,6 +7733,7 @@ rapistence.com
 rapmental.com.se
 rascii.com
 rasdtaro.shop
+rasedgove.com
 rashidatosundara@gmail.com
 rasiksequins.eu.com
 rasimucker.com
@@ -8013,6 +8096,7 @@ rovaningtoppre.com
 rowdydows.com
 rowlaugh.com
 roxanthe.com
+royalcaribbeanmarketing.com
 royalcollacteonorgik.com
 royaleeducationorg.org
 royaltirani.com
@@ -8044,6 +8128,7 @@ rumorclimb.com
 rumournam.com
 rumpetitional.com
 runnellen.com
+runrecipient.xyz
 runyourselfstrong.org
 rupedal.com
 ruppoings.com
@@ -8275,6 +8360,7 @@ selfimprovementvod.com
 sellectronomy.org
 sellingtao.com
 sellinlegaldope.com
+sellmytimesharenow.com
 sellowed.com
 selznicky.in
 semajsblack-tk0056.site
@@ -8343,6 +8429,7 @@ sevitation.live
 sevskiing.com
 sewellenn.net
 sexidjudeisa.com
+sexmoi.us
 sgdbinhduong.edu.vn
 sgzxcy.com
 shaanks.guru
@@ -8573,6 +8660,7 @@ solarmyst.de
 solarvoyager.info
 soldilong.org.uk
 solidmob.co.uk
+solidmount.space
 sol-monnaies-locales.org
 solo17.shop
 solo19.shop
@@ -8950,6 +9038,7 @@ swingspray.com
 swipepit.com
 swissmoneymag.com
 swissteqball.com
+switchrain.com
 swithoce.com
 switzerlandon.com
 sydisais.com
@@ -9088,6 +9177,7 @@ teoague.com
 tepdsaul.com
 tephew.investments
 teracce.com
+teradoli.shop
 teraora.site
 terasse.site
 terdsian.com
@@ -9111,6 +9201,7 @@ tessietz.com
 test.com
 testinct.com
 testivative.uk.net
+testkings.us
 testthaw.com
 tetareur.com
 teutonovna.com
@@ -9126,6 +9217,7 @@ th4.bvil.shop
 thadaycorpkr.com
 thagaforg.com
 thalgoverm.com
+thalorin.surf
 thalxyr.surf
 thamentrium.com
 thanaritophobia.com
@@ -9244,6 +9336,7 @@ thighe.com
 thilifiecto.info
 thincto.com
 thinene.com
+thinispeps.org
 thinkinson.com
 thirdlove.com
 thirtyonenewsletter.com
@@ -9607,6 +9700,7 @@ ufbheuzu.buzz
 ufpr.br
 ufuqaswtfo.de
 ugatillisk.com
+uggoloutle.us
 uhhafcld.fun
 ujjaldas3577532@gmail.com
 ukraineshopp.site
@@ -9817,6 +9911,7 @@ vantarequesto.org
 vaporases.tech
 vapourousl.com
 varcovia.org
+vardenafil.life
 varianisms.org
 variegen.store
 varkame.com
@@ -9841,6 +9936,7 @@ vcsid.com
 vcwgogqe.space
 vectional.in.net
 vections.in.net
+vectorcreative.ink
 vedaojig.com
 vegetaborate.info
 vegetting.sale
@@ -9855,6 +9951,7 @@ velocuraten.com
 venguash.org
 venicopted.com
 ventationwide.com
+vequotable.info
 verbaijani.com
 verburntablish.com
 verdyaev.in.net
@@ -9952,6 +10049,7 @@ vivawell.tattoo
 vivcity.com
 viverrelgeol.net
 viy.boats
+viziopl.us
 vjt.boats
 vkirolpmer.info
 vkmlgqkb.space
@@ -9969,6 +10067,7 @@ voicecodeloom.com
 voitinz.com
 vojvodination.com
 vojvoding.com
+vok.boats
 volcanonymous.co
 volhyniad.com
 volkssonny.com
@@ -9983,6 +10082,7 @@ vossevents.com
 votestably.com
 votestimates.technology
 votreuv.com
+vougeonda.org
 vounity.com
 vp.pl
 vplaton.art
@@ -10109,6 +10209,7 @@ wednessed.com
 weeraempire.com
 wehelpaverugand@gmail.com
 weibo.com
+weide.sbs
 weight-losstips.net
 weirdofthewendigo.com
 weisserladen.de
@@ -10199,6 +10300,7 @@ winchand.com
 wincorg.com
 windoorker.com
 windowyak.us.org
+winen.info
 winner-1.org
 winningss.duckdns.org
 winniper.com
@@ -10355,6 +10457,7 @@ yamereak.org
 yanexe.com
 yasundamendment.com
 yatha.net
+yavxevo.com
 yaziyach.site
 ycmxcneu.space
 ycorrhizal.com
@@ -10367,7 +10470,9 @@ yeechantech.com
 yeesionhk.com
 yeezy-adidas.us
 yeezysslides.us
+yeezysupplys.us
 yeezyv2.us
+yeezyv2-outlet.us
 yementers.com
 yemet.net
 yemma.cfd
@@ -10413,6 +10518,8 @@ yourtgrapisa.com
 yourtrapska.com
 yourwalletinside.com
 youthimpressions.org
+yovzera.com
+yovzevo.com
 yqmjx.com
 yrtecdsaigc.com
 yrtefdsuippe.com
@@ -10432,6 +10539,7 @@ yujvc.duckdns.org
 yukral.com
 yulerj.com
 yuned.shop
+yuzeva.com
 yvxgreasy.eu.com
 yycinput.com
 yyixhbns.fun
